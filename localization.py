@@ -1,12 +1,8 @@
-"""
-Localization file for CompBot - Contains all interface strings in supported languages
-"""
-
 LOCALIZED_STRINGS = {
     "english": {
         # General messages
         "welcome_back": "Welcome back {name}, I've missed you!",
-        "first_time_greeting": "Hello! I'm CompBot, designed to provide compliments and have conversations with you.",
+        "first_time_greeting": "Hello! I'm Romeo, designed to provide compliments and have conversations with you.",
         "error_processing": "Sorry, I encountered an error while processing your request.",
         "unknown_button_press": "I'm not sure what to do with that button. Please try using the command buttons at the bottom of the screen instead.",
         
@@ -15,8 +11,7 @@ LOCALIZED_STRINGS = {
         "ask_bot_name": "What name would you like to give me? (If you don't provide one, I'll be called Romeo)",
         "ask_language": "Please select your language:",
         "ask_frequency": "How often would you like to receive compliments?",
-        "ask_personality": "Please describe what kind of personality you'd like me to have (e.g., friendly, flirty, professional, poetic, humorous, or any other style):",
-        "name_confirmation": "Nice to meet you, {name}!",
+        "name_confirmation": "Nice to meet you, {name} :)",
         "bot_name_confirmation": "You can call me {bot_name}!",
         "language_confirmation": "Your language has been set to English! ",
         "frequency_confirmation": "I'll send you compliments {frequency}.",
@@ -99,7 +94,6 @@ LOCALIZED_STRINGS = {
         "ask_bot_name": "Bana ne isim vermek istersin? (Eğer bir isim vermezsen, bana Romeo diyeceğim)",
         "ask_language": "Lütfen dilinizi seçin:",
         "ask_frequency": "Ne sıklıkla iltifat almak istersin?",
-        "ask_personality": "Lütfen nasıl bir kişiliğe sahip olmamı istediğinizi tanımlayın (örn. arkadaşça, flörtöz, profesyonel, şiirsel, esprili veya başka bir tarz):",
         "name_confirmation": "Tanıştığımıza memnun oldum, {name}!",
         "bot_name_confirmation": "Bana {bot_name} diyebilirsin!",
         "language_confirmation": "Diliniz Türkçe olarak ayarlandı! ",
